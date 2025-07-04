@@ -18,9 +18,9 @@ Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 
 📸 Screenshots Here are some glimpses of the Dukaan UI Clone in action:
 
-Dashboard Overview:
+Dashboard Overview:![Dashboard view without Sidebar](2025-07-04(1).png)
 
-Full Dashboard View with Sidebar:
+Full Dashboard View with Sidebar:![Dasboard View with Sidebar](2025-07-04.png)
 
 ⚙️ Installation & Setup To get this project up and running on your local machine, follow these steps:
 
