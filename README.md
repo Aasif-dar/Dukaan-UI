@@ -26,7 +26,7 @@ Full Dashboard View with Sidebar:![Dasboard View with Sidebar](2025-07-04.png)
 
 Clone the repository:
 
-git clone https://github.com/MehranKhn/Dukaan-UI-Clone.git cd Dukaan-UI-Clone
+git clone https://github.com/Aasif-dar/Dukaan-UI.git cd Dukaan-UI
 
 Install dependencies:
 
